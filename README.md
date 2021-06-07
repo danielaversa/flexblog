@@ -12,7 +12,7 @@ This project is part of the course *CSS Flexbox* from the [Origamid](https://ori
   
 ## Preview
 
-![FlexBlog Screenshot](https://github.com/danielaversa/flexblog/blob/main/screenshot.jpg "FlexBlog Screenshot")
+![FlexBlog Screenshot](https://github.com/danielaversa/flexblog/blob/main/img/screenshot.jpeg "FlexBlog Screenshot")
 
 ## Live Demo
 
