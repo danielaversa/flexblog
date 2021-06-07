@@ -10,7 +10,11 @@ This project is part of the course *CSS Flexbox* from the [Origamid](https://ori
 - HTML5
 - CSS3 (Flexbox)
   
-## Demo
+## Preview
+
+![FlexBlog Screenshot](https://github.com/danielaversa/flexblog/blob/main/screenshot.jpg "FlexBlog Screenshot")
+
+## Live Demo
 
 You can access FlexBlog clicking [here](https://flexblog.daniaversa.dev).
 
